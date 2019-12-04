@@ -1,0 +1,6 @@
+framework module Pods_securityKey {
+  umbrella header "Pods-securityKey-umbrella.h"
+
+  export *
+  module * { export * }
+}
